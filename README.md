@@ -151,10 +151,8 @@ This will be an application where your main objective is to refactor a page to l
     <li><strong><a href="https://www.npmjs.com/package/json-server">JSON Server</a></strong></li>
     <li><strong><a href="https://axios-http.com/docs/intro">Axios</a></strong></li>
      <li><strong><a href="https://react-icons.github.io/react-icons/">React Icons</a></strong></li>
-    <li><strong><a href="https://jestjs.io/pt-BR/">Jest</a></strong></li>
-    <li><strong><a href="https://testing-library.com/docs/react-testing-library/intro/">React Testing Library</a></strong></li>
   </ul>
-  <hr>s
+  <hr>
   <h2>How to run the project</h2>
   <h3>Prerequisites</h3>
   <p>Before starting, you will need to have the following tools installed on your     machine:
